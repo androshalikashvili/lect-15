@@ -13,3 +13,8 @@ cd .. გამოსვლა
 touch ფაილის დამატება
 vim ფაილის გახსნა და რედაქტირება/ჩაწერა
 :wq!  damaxsovreba
+
+git status
+git commit -m "comment here"
+git log
+gip push
