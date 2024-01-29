@@ -15,6 +15,7 @@ vim ფაილის გახსნა და რედაქტირებ�
 :wq!  damaxsovreba
 
 git status
+git add .
 git commit -m "comment here"
 git log
 gip push
