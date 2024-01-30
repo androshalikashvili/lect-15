@@ -1,0 +1,17 @@
+id,name,age,grade,subject_name,marks
+1,Alice,18,A,Math,100
+2,Bob,19,A,History,85
+1,Alice,18,A,History,95
+2,Bob,19,A,Science,90
+1,Alice,18,A,Science,88
+2,Bob,19,A,Biology,85
+1, Alice, 18, A, Biology, 90
+2, Bob, 17, B, English, 85
+3, Charlie, 19, A, Science, 92
+4, David, 16, C, History, 78
+5, Eva, 18, B, Art, 88
+6, Frank, 17, A, Physics, 95
+7, Grace, 16, B, Chemistry, 87
+8, Henry, 19, C, Biology, 75
+9, Ivy, 18, A, Geography, 93
+10, Jack, 17, B, Computer Science, 89
