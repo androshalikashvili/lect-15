@@ -1,0 +1,75 @@
+﻿შექმენით ორი კლასი:
+I. Student, ატრიბუტებით: name, mark, address, სტატიკური ატრიბუტი row_id
+II. Address, ატრიბუტებით: city, street
+
+
+Student კლასის address ატრიბუტს მნიშვნელობად უნდა მიანჭოთ Address კლასის ეგზემპლარი.
+
+შექმენთ ორივე კლასის რამდენიმე ეგზემპლარი.
+
+json მოდულის დახმარებით ფაილში შეინახეთ სტუდენტები.
+
+მოახდინეთ წაკითხვა. შეცვალეთ ატრიბუტ(ებ)ის მნიშვნელობა (მაგ.: mark, str), დაამატეთ ახალი ატრიბუტი grade მნიშვნელობით A, B, C, D (A -> [91-100], B -> [81-90], C -> [71-80], D -> <=70).
+
+შეცვლილი მონაცემები შეინახეთ ფაილში.
+
+
+
+საბოლოო შედეგის ნიმუში (ფაილში შენახული):
+[
+  {
+    "row_id": 1,
+    "name": "Paata",
+    "mark": 87,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Saburtalo"
+    },
+    "grade": "B"
+  },
+  {
+    "row_id": 2,
+    "name": "Demetre",
+    "mark": 100,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Gldani-7-11-4-93"
+    }
+  },
+  {
+    "row_id": 3,
+    "name": "Alexander",
+    "mark": 100,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Gldani-7-11-4-93"
+    }
+  },
+  {
+    "row_id": 4,
+    "name": "Teona",
+    "mark": 92,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Gldani-7-11-4-93"
+    }
+  },
+  {
+    "row_id": 5,
+    "name": "Nino",
+    "mark": 99,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Leselidzs str. 25"
+    }
+  },
+  {
+    "row_id": 6,
+    "name": "Andria",
+    "mark": 87,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Varketili IV 407-5-123"
+    }
+  }
+]

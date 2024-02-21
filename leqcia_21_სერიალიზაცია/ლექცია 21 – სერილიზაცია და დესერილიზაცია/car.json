@@ -1,0 +1,9 @@
+{
+  "name": "Mazda",
+  "engine": 2.0,
+  "price": 3000
+}{
+  "name": "Toyota",
+  "engine": 3.5,
+  "price": 4500
+}

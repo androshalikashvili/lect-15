@@ -1,0 +1,47 @@
+[
+  {
+    "row_id": 1,
+    "name": "Andria",
+    "mark": 87,
+    "address": {
+      "sity": "Tbilisi",
+      "street": "Pekini ave. 11"
+    }
+  },
+  {
+    "row_id": 2,
+    "name": "Mariami",
+    "mark": 98,
+    "address": {
+      "sity": "Tbilisi",
+      "street": "Tsereteli ave. 67a"
+    }
+  },
+  {
+    "row_id": 3,
+    "name": "Nino",
+    "mark": 99,
+    "address": {
+      "sity": "Rustavi",
+      "street": "Meskhishvili str. 15"
+    }
+  },
+  {
+    "row_id": 4,
+    "name": "Dato",
+    "mark": 75,
+    "address": {
+      "sity": "Rustavi",
+      "street": "Shartava ave. 33"
+    }
+  },
+  {
+    "row_id": 5,
+    "name": "Zura",
+    "mark": 65,
+    "address": {
+      "sity": "Mtskheta",
+      "street": "Gamsakhurdia str. 12"
+    }
+  }
+]
